@@ -1,0 +1,33 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px red;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+    box-shadow: 6px 6px 5px black;
+    border-radius: 30px;
+    border-style: ridge;
+    border-width: 7px;
+    border-color: green;
+    background-color: blue;
+    margin-top: 105px;
+}
+
+#recogniser{
+    background-color: black;
+    color: lawngreen;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 7px;
+    width: 45%;
+}
